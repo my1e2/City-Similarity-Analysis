@@ -1,1 +1,1 @@
-# Healthcare-Data-Analysis
+# Collegiate-Data-Analysis
